@@ -144,15 +144,14 @@ Este Proyecto fue desarrollado por ***Daniel Santiago Vinasco***
 
 -------------------------------------------------------
 
-
 ---
-✅ ¿Qué incluye este README? :
+### ✅ ¿Qué incluye este README?
 
-✔ 🔢 Funcionalidades clave para encontrar números primos gemelos y palindrómicos.
-✔ 📁 Estructura del proyecto organizada y modular.
-✔ 🖥️ Código del menú principal con opciones interactivas.
-✔ 🔎 Algoritmos eficientes para detectar números primos y palíndromos.
-✔ 🚀 Instrucciones detalladas para instalación y uso del sistema.
-✔ 🎨 Presentación atractiva con emojis y formato Markdown limpio.
-
+✔ **🔢 Funcionalidades clave para encontrar números primos gemelos y palindrómicos.
+✔ **📁 Estructura del proyecto organizada y modular.
+✔ **🖥️ Código del menú principal con opciones interactivas.
+✔ **🔎 Algoritmos eficientes para detectar números primos y palíndromos.
+✔ **🚀 Instrucciones detalladas para instalación y uso del sistema.
+✔ **🎨 Presentación atractiva con emojis y formato Markdown limpio.
+---
 ----------------
